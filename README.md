@@ -15,6 +15,7 @@
 | `02-4/` | 02-4 실습: 필요한 수정은 남기고 잘못된 수정만 취소하기 | `README.md`, `profile.md`, `hobby.md`, `todo.md` — AI 도구가 없는 독자를 위한 "AI 수정 결과" (실측 당시 Claude Code가 만든 결과 그대로) |
 | `04-1/` | 04-1 실습: 소개 페이지 추가 작업을 별도 브랜치에서 진행하기 | `index.html` — AI 도구가 없는 독자를 위한 "AI가 만든 소개 웹페이지" (실측 당시 Claude Code가 만든 결과 그대로) |
 | `06-3/` | 06-3 실습: 예제 프로젝트에 간단한 자동 검사 추가하기 | `check.sh`(→ `scripts/check.sh`), `check.yml`(→ `.github/workflows/check.yml`) — 실측 당시 Claude Code가 만든 검사 스크립트와 워크플로. 워크플로의 actions/checkout 버전만 사람이 v7로 고친 상태 |
+| `06-5/` | 06-5 종합 실습: AI와 작은 프로젝트 완성하기 | `check.sh`(→ `scripts/check.sh`) — 06-3의 검사에 4번 항목(페이지 안 링크가 실제 id를 가리키는지)을 더한 버전. 실측 당시 Claude Code가 만든 결과 그대로 |
 
 ## 파일 내려받기
 
