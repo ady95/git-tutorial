@@ -2,7 +2,10 @@
 
 위키독스 「AI 에이전트 시대의 Git, GitHub 따라하기」의 실습 예제 저장소입니다.
 
-- 책: [https://wikidocs.net/book/21446](https://wikidocs.net/book/21446)
+<a href="https://wikidocs.net/book/21446"><img src="assets/book-cover.png" alt="AI 에이전트 시대의 Git, GitHub 따라하기 표지" width="260"></a>
+
+- 책: [AI 에이전트 시대의 Git, GitHub 따라하기 (위키독스)](https://wikidocs.net/book/21446)
+- 부제: AI와 함께 작업하고, 변경을 검토하고, 실수를 되돌리는 실습 입문서
 
 ## 폴더 구성
 
